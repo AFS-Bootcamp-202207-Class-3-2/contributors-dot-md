@@ -1,7 +1,9 @@
-Please leave your names below. Thanks for your effort.
-if there is a text like "CI failure", please remove it.
+Please leave your names below one by one. Thanks for your effort.
+if there is a text like "CI failure", please comment it.
 
-Alex
-Mike
-Susan2
-Ubuntu2 
+If anyone sees an uncommented "CI failure", you can challenge the previous commiter for a cup of bubble tea.
+
+- Alex
+- Mike
+- Susan2
+- Ubuntu2 

@@ -6,5 +6,6 @@ If anyone sees an uncommented "CI failure", you can challenge the previous commi
 - Alex
 - Mike
 - Susan2
-- Ubuntu2 
+- Ubuntu2
+- Linne (Ray)
 - ElioQiu
